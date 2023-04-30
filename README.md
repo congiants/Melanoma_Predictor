@@ -20,3 +20,6 @@ Dataset used from Kaggle: https://www.kaggle.com/datasets/hasnainjaved/melanoma-
 
 ## Dedication
 This project is dedicated to my late grandmother, Sofia Gargavani, who was taken away by this form of cancer. 
+
+## License
+MIT License Copyright (c) 2023 Constantine Giantselidis 
