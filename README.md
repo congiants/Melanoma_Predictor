@@ -1,5 +1,5 @@
 # Melanoma_Predictor
-A project meant to teach me the basics of CNN (Convolutional Neural Networks). The latest engine is able to predict malignant melanomas (skin cancer) with about 87% accuracy. 
+A project meant to teach me the basics of CNN (Convolutional Neural Networks). The latest model is able to predict malignant melanomas (skin cancer) with about 90% accuracy. 
 
 ## Required libraries
 - tensorflow
@@ -12,8 +12,8 @@ A project meant to teach me the basics of CNN (Convolutional Neural Networks). T
 To use this project, follow these steps:
 1. Clone the repository: `git clone https://github.com/congiants/Melanoma_Predictor.git`
 2. Install the required libraries: `pip install required_library`
-3. The model is already trained and can be used. The two images in the root of the directory can be used for a quick test of the model
-4. The model can also be trained on a different dataset 
+3. The models are already trained and can be used. The two images in the root of the directory can be used for a quick test of the models
+4. The models can also be trained on a different dataset 
 
 ## Dataset
 Dataset used from Kaggle: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
